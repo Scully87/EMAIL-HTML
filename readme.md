@@ -1,4 +1,4 @@
-:mail: Email-Template :mail:
+:email: Email-Template :email:
 ================
 
 ### Creating an XHTML template for sending emails to be viewed across different email applications including mobile.
